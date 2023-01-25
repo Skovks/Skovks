@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on IoT and embedded systems
+- 🌱 I’m currently learning Machine learning, and Deep learning
+- 📫 How to reach me: delta117.sk7ch@gmail.com
 <!--
 **Skovks/Skovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
